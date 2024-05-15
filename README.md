@@ -1,5 +1,11 @@
-# dowload package 
-go get -u github.com/ipfs/go-ipfs-api
-# run daemon      
-ipfs daemon
-run code        : go run main.go
+
+go get -u github.com/ipfs/go-ipfs-api 
+
+# Run Daemon 
+
+ipfs daemon 
+
+then 
+
+go run main.go 
+
